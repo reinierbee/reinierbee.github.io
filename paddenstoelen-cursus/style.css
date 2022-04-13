@@ -1,3 +1,7 @@
 #lesson-content .page-content .lesson-content-wrapper table tbody tr td { 
     border: 0px; 
 }
+
+#lesson-content .page-content .content-header h1 { 
+    border: 1px red;
+}
